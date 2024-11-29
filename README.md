@@ -2,6 +2,7 @@
 
 This is a Climate Change Awareness Landing Page designed to raise awareness about the global climate crisis and encourage users to take action for a sustainable future. The page features sections on the current challenges we face, success stories of global initiatives, and a countdown timer to highlight the urgency of limiting global warming to 1.5°C.
 
+
 ## Features
 
 **Hero Section**: An impactful call-to-action that emphasizes the importance of acting now to mitigate climate change.
@@ -12,7 +13,9 @@ This is a Climate Change Awareness Landing Page designed to raise awareness abou
 
 **Countdown Timer**: A real-time countdown to show the remaining time to limit global warming to 1.5°C.
 
-### This project uses the following technologies:
+
+
+## This project uses the following technologies:
 
 **HTML5**: Structure of the webpage, including the Hero Section, Challenges, Success Stories, and Footer.
 
@@ -25,6 +28,7 @@ This is a Climate Change Awareness Landing Page designed to raise awareness abou
 **Google Fonts**: Custom fonts for better typography (Roboto and Lora).
 
 **CSS Animations**: The scrolling effect in the success stories section.
+
 
 
 ## How to Run
