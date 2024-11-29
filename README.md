@@ -33,7 +33,9 @@ This is a Climate Change Awareness Landing Page designed to raise awareness abou
 
 ## How to Run
 
-To run the project locally:
+#### Hosted Webpage URL: https://gvakhilesh.github.io/OCTANET_NOVEMBER/
+
+#### To run the project locally:
 
 1. **Clone the repository:**
 
